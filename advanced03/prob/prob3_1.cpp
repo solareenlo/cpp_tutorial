@@ -1,3 +1,4 @@
+// テンプレート関数を用いて、整数型・実数型・文字列それぞれの2つの値を入れ替える
 #include <iostream>
 #include <string>
 
