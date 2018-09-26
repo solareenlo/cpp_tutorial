@@ -11,9 +11,10 @@ void CSetData::setdata(list<int>& l, int r) {
 
     cout << "正の整数値を入力してください" << endl;
     cout << "(-1を入力すると終了します)" << endl;
-    while(a != -1) {
+    while(1) {
         cout << "正の整数を入力：";
         cin >> a;
+        if(a == -1) break;
         l.push_back(a);
     }
     cout << endl;
