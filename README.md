@@ -7,3 +7,4 @@
  https://qiita.com/jnchito/items/5141b3b01bced9f7f48f
 - vimの操作はこちらを参照中 →
  http://wolfbash.hateblo.jp/archive/category/vim
+- 非効率であったり, 間違っていたりするかもしれません.
