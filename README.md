@@ -1,4 +1,4 @@
-## cpp_tutorial
+# cpp_tutorial
 - C++の練習.
 - 教材は  
 https://www.udemy.com/cc-lubmn/learn/v4/overview  
